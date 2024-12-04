@@ -12,6 +12,10 @@ public class FindVowelConsonant {
 //				
 //		}
 //		
+	System.out.println("hello jee");
+	for(int frequencyCount : resarr){
+		System.out.println("vowel count : " + frequencyCount + " Consonant count : " + frequencyCount);
+	}
 
 	}
 	

@@ -1,5 +1,7 @@
 package Programpractice;
 
+import java.util.HashMap;
+
 public class FindVowelConsonant {
 
 	public static void main(String[] args) {
@@ -16,6 +18,7 @@ public class FindVowelConsonant {
 	for(int frequencyCount : resarr){
 		System.out.println("vowel count : " + frequencyCount + " Consonant count : " + frequencyCount);
 	}
+
 
 	}
 	

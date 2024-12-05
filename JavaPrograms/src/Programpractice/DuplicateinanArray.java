@@ -6,7 +6,7 @@ import java.util.Map;
 public class DuplicateinanArray {
 
 	public static void main(String[] args) {
-		int[] rollNo = {1,3,4,6,1,7,9,3};
+		int[] rollNo = {1,3,9,4,6,1,7,9,3};
 		
 		HashMap<Integer, Integer> duplicatecount = new HashMap<Integer, Integer>();
 		
